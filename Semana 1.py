@@ -13,4 +13,3 @@ for i in range (1,n):
 print("A soma dos múltiplos é", sum(multiplos))
 
 # Exercício 2
-# Criar um programa que leia uma lista de números e retorne a média dos números pares
