@@ -1,4 +1,4 @@
-# Semana 1
+# Week 1
 
 # Exercise 1
 # Execute a code that returns the sum of multiples of 3 and 5 up to the number n
